@@ -26,6 +26,7 @@ The following libraries and tools were used in this project:
 ## Source
 * [Covid-19 dataset](https://ansperformance.eu/reference/dataset/airport-traffic/)
 * [Flight dataset](https://ourworldindata.org/covid-vaccinations)
+* [Facebook Prophet](https://facebook.github.io/prophet/docs/quick_start.html)
 
 ## License
 This project is licensed under the [GNU General Public License 3](https://www.gnu.org/licenses/gpl-3.0).
